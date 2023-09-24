@@ -10,3 +10,12 @@ body {
 .App {
   text-align: center;
 }
+
+.divider {
+  width: 80%;
+  text-align: center;
+}
+
+.hidden {
+  display: none;
+}
